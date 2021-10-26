@@ -1,6 +1,12 @@
-# pcg
+# 项目说明
 
-> A Vue.js project
+> 1 这是一个多系统的vue后台管理项目
+> <br/>
+> 2 使用的技术，vue + vuex + vue-router + jqurey + elementUI 
+> <br/>
+> 3 已加路由权限过滤（登录admin将看到全部路由，登录其他账号只能看到部分路由）
+> <br/>
+> 4 该系统属于个人项目，希望对你有所帮助
 
 ## Build Setup
 
